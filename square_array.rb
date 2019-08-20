@@ -1,6 +1,6 @@
+numbers = [1,2,3]
 def square_array(numbers)
-  numbers=[]
-  numbers.each{[number] numbers.push(number*number)
- 
+  numbers.each do [numbers * numbers]
+  puts [numbers*numbers] 
  end
  
